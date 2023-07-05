@@ -1,0 +1,40 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+    
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+a
+{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: lightblue;
+    color: red;
+}
+.btn
+{
+    float: right;
+    background-color: blue ;
+    color: white;
+    border-radius: 30px;
+}
+.btn1
+{
+    float: center;
+    background-color: blue ;
+    color: white;
+    border-radius: 30px;
+}
